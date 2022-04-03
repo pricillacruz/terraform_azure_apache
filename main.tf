@@ -1,4 +1,4 @@
-# Versao do terrafom
+# Versao do terraform
 terraform {
   required_version = ">= 0.13"
 
